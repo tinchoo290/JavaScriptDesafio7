@@ -1,0 +1,19 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: justify; 
+    font-family: Optima, sans-serif;
+    --border: 1px solid #35532f;
+    background-image: radial-gradient(circle, #2e8334, #1f8426, #19801f, #127d18, #115f16);
+  }
+  h1 {
+    text-align: center;
+    padding-top: 1rem;
+    color: #DCF9D7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
